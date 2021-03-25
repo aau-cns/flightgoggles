@@ -1,0 +1,6 @@
+# Request: a transform with timestamp
+geometry_msgs/TransformStamped tf
+---
+# Response: if image was rendered and published
+sensor_msgs/Image image
+

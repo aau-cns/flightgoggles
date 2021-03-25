@@ -1,0 +1,6 @@
+# Request: a vector of stamped transformation
+geometry_msgs/TransformStamped[] tf_arr
+---
+# Response: if image was rendered and published
+bool result
+
