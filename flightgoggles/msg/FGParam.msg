@@ -27,3 +27,6 @@ float32               imu_acc_noise
 float32               imu_gyro_noise
 float32               imu_acc_randomwalk_noise
 float32               imu_gyro_randomwalk_noise
+
+# camera extrinsics
+geometry_msgs/TransformStamped cam_imu_transform
